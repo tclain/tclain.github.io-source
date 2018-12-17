@@ -11,6 +11,7 @@ export const NavItem = styled.a`
   font-weight: lighter;
   text-transform: uppercase;
   margin-right: 0.2em;
+  font-size: 1.2em;
   display: block;
   text-decoration: none;
   color: black;

@@ -6,6 +6,7 @@ export * from './text'
 export * from './nav'
 
 export const Root = styled('div')`
+  margin: 0;
   & * {
     font-family: 'Barlow', sans-serif;
   }
@@ -18,5 +19,8 @@ export const Container = styled('div')`
 `
 
 export const FullHeight = styled.div`
-  min-height: 100vh;
+  min-height: 60vh;
+  margin-bottom: 80px;
+  padding-top: 25px;
+  padding-bottom: 70px;
 `
