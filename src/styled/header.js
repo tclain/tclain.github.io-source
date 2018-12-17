@@ -17,7 +17,7 @@ export const HugeHeader = styled.h1`
 
 export const FadedHeader = styled.h3`
   padding: 10px;
-  font-size: 0.8em;
+  font-size: 0.9em;
   margin-top: 0.3em;
   margin-bottom: 0.3em;
   font-family: Barlow;

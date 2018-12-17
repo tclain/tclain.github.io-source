@@ -24,7 +24,7 @@ const IndexPage = () => (
         <HeaderWrapper>
           <FadedHeader>> whoami</FadedHeader>
           <HugeHeader>
-            Hi !<br /> I'm your new fullstack consultant
+            Hi !<br /> I'm Timothee, your new fullstack consultant
           </HugeHeader>
           <Nav>
             <NavItem target="_blank" href="https://linkedin.com/in/tclain">
@@ -49,7 +49,7 @@ const IndexPage = () => (
           <HugeHeader>Javascript, FP and everything relevant to you</HugeHeader>
         </HeaderWrapper>
         <Text>
-          I'm Javascript/React (but not limited to) expert, a speaker and
+          I'm a Javascript/React (but not limited to) expert, a speaker and
           educator with years of experience.
         </Text>
         <Text>
