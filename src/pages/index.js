@@ -49,7 +49,7 @@ const IndexPage = () => (
           <HugeHeader>Javascript, FP and everything relevant to you</HugeHeader>
         </HeaderWrapper>
         <Text>
-          I'm a Javascript/React (but not limited to) expert, a speaker and
+          I'm a Javascript/React (but not limited to) architect, a speaker and
           educator with years of experience.
         </Text>
         <Text>
@@ -70,7 +70,7 @@ const IndexPage = () => (
         <HeaderWrapper>
           <FadedHeader>> experiences</FadedHeader>
           <HugeHeader>
-            DX happiness, Scalable systems, Source of inspiration
+            Developper happiness, Scalable systems, Source of inspiration
           </HugeHeader>
         </HeaderWrapper>
         <Text>
@@ -101,7 +101,7 @@ const IndexPage = () => (
           </Text>
           <Text>
             Via thorough automated testing, code reviews and collaboration, I
-            fit your vision with the techical part.
+            fit your vision with impeccable code.
           </Text>
           <Text>
             I'm <i>always learning</i>. ReasonML ? Check. Elixir ? Love it.
@@ -121,7 +121,8 @@ const IndexPage = () => (
         <HeaderWrapper>
           <FadedHeader>> contact</FadedHeader>
           <HugeHeader>Available onsite in MTL, remotely elsewhere</HugeHeader>
-          <Image />
+          <Text>timothee (dot) clain (at) gmail (dot) com</Text>
+          <Text>514 dash 967 0216</Text>
         </HeaderWrapper>
       </Container>
     </FullHeight>
