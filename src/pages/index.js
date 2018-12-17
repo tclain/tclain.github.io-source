@@ -40,7 +40,11 @@ const IndexPage = () => (
         </HeaderWrapper>
       </Container>
     </FullHeight>
-    <img src="https://picsum.photos/g/1600/400?image=1069" alt="" />
+    <img
+      src="https://picsum.photos/g/1600/400?image=1069"
+      alt=""
+      style={{ width: '100%' }}
+    />
 
     <FullHeight>
       <Container>
@@ -63,7 +67,11 @@ const IndexPage = () => (
       </Container>
     </FullHeight>
 
-    <img src="https://picsum.photos/g/1600/400?image=1061" alt="" />
+    <img
+      src="https://picsum.photos/g/1600/400?image=1061"
+      alt=""
+      style={{ width: '100%' }}
+    />
 
     <FullHeight>
       <Container>
@@ -88,7 +96,11 @@ const IndexPage = () => (
       </Container>
     </FullHeight>
 
-    <img src="https://picsum.photos/g/1600/400?image=1059" alt="" />
+    <img
+      src="https://picsum.photos/g/1600/400?image=1059"
+      alt=""
+      style={{ width: '100%' }}
+    />
 
     <FullHeight>
       <Container>
