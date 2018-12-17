@@ -6,11 +6,12 @@ module.exports = {
   },
   plugins: [
     'gatsby-plugin-react-helmet',
+    `gatsby-plugin-styled-components`,
     {
       resolve: `gatsby-plugin-google-fonts`,
       options: {
         fonts: [
-          `Barlow:300,500,500i,700`, // you can also specify font weights and styles
+          `Barlow:500,700`, // you can also specify font weights and styles
         ],
       },
     },
